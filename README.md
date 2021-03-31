@@ -29,7 +29,7 @@ This extension contributes the following settings:
 
 * `react-component-generator.conditionals`: Array of strings which will toggle certain portions of your templates.
 * `react-component-generator.componentTemplatePath`: Absolute path to custom **component** template directory. If left blank, defaults to built-in template.
-* `react-component-generator.containerTemplatePath`: Absolute path to custom **classComponent** template directory. If left blank, defaults to built-in template.
+* `react-component-generator.classComponentTemplatePath`: Absolute path to custom **classComponent** template directory. If left blank, defaults to built-in template.
 
 ### Syntax
 
